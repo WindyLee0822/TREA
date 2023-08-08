@@ -12,7 +12,8 @@ To run the generation part.
 
 ## Dataset
 We publish the preprocessed dataset  `train_publish.json` and  `test_publish.json`
-if you wanna use raw datasets from previous works, you just need to set `process_raw_data=True` during the dataset initialization.
+
+if you wanna use raw datasets from previous works  `train.json` and `test.json`, you just need to set `process_raw_data=True` during the dataset initialization.
 
 
 
