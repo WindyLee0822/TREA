@@ -5,6 +5,8 @@ Source code of “TREA: Tree-structure Reasoning Schema for Conversational Recom
 
 If you encounter problems, feel free to contact me (wendili@hust.edu.cn). I will reply to you as soon as possible.
 
+The TG-redial part of codes are in the other branch "tgredial"
+
 
 ## Run
 To run the recommendation part.
